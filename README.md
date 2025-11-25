@@ -46,17 +46,17 @@ Expected Graduation: **2027**
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### **Macau Finance Trainee Program**
 - Conducted **market sizing (TAM/SAM/SOM)** and unit economics analysis for a simulated insurance product launch  
 - Performed **DCF, SWOT, IPO case studies**, and risk–return evaluation  
 - Built financial models with multi-scenario sensitivity analysis  
-- Presented insights to senior executives and coordinated a team of five
+- Presented insights to senior executives and coordinated a cross functional team of six
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 **Languages:** Python, R, LATEX, Excel, PowerPoint, Word  
 **Core Skills:**  
 - Statistical modeling & inference  
