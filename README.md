@@ -31,7 +31,7 @@ Repository: [ECO225-Projects](https://github.com/HexiangLi6007678/ECO225-Project
 Honours B.Sc., Statistical Science (Methods & Practice) — Economics Focus  
 Expected Graduation: **2027**  
 
-**Selected Coursework (with grades):**
+**Related Coursework (with grades):**
 - Machine Learning (**A+**)  
 - Data Analysis II (**A+**)  
 - Surveys, Sampling & Observational Data (**A+**)  
