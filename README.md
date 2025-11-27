@@ -52,7 +52,7 @@ Expected Graduation: **2027**
 - Conducted **market sizing (TAM/SAM/SOM)** and unit economics analysis for a simulated insurance product launch  
 - Performed **DCF, SWOT, IPO case studies**, and risk–return evaluation  
 - Built financial models with multi-scenario sensitivity analysis  
-- Presented insights to senior executives and coordinated a cross functional team of six
+- Presented insights to senior executives and **coordinated a cross functional team of six**
 
 ---
 
