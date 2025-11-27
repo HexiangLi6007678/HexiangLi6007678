@@ -12,7 +12,7 @@ I enjoy building statistical models, interpreting real-world data, and using ML 
 
 ---
 
-## Featured Projects
+## Featured Projects (make sure you open these files through Google)
 
 ### **STA302 — Factors Affecting QS University Rankings**
 *Data Analysis · Regression Modeling · Model Diagnostics*  
