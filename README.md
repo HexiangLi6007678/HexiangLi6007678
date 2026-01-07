@@ -25,7 +25,11 @@ Repository: [STA302-Projects](https://github.com/HexiangLi6007678/STA302-Project
 Repository: [ECO225-Projects](https://github.com/HexiangLi6007678/ECO225-Projects)
 
 ---
+### **STA437 - Coming soon**
+*Machine Learning*  
+Coming soon!
 
+---
 ## Education
 **University of Toronto**  
 Honours B.Sc., Statistical Science (Methods & Practice) — Economics Focus  
