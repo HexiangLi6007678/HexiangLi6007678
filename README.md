@@ -25,9 +25,9 @@ Repository: [STA302-Projects](https://github.com/HexiangLi6007678/STA302-Project
 Repository: [ECO225-Projects](https://github.com/HexiangLi6007678/ECO225-Projects)
 
 ---
-### **STA437 - Coming soon**
-*Machine Learning*  
-Coming soon!
+### **Abalone Predictive Modeling**
+*Data Analysis · Regression Modeling · Model Diagnostics · Machine Learning*  
+Repository: [Abalone-Projects](https://github.com/HexiangLi6007678/Abalone-Projects)
 
 ---
 ## Education
