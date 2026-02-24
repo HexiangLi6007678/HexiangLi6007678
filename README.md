@@ -9,6 +9,12 @@ I enjoy building statistical models, interpreting real-world data, and using ML 
 
 ## Featured Projects (make sure you open these files through Google)
 
+### **Abalone Predictive Modeling**
+*Data Analysis · Regression Modeling · Model Diagnostics · Machine Learning*  
+Repository: [Abalone-Projects](https://github.com/HexiangLi6007678/Abalone-Projects)
+
+---
+
 ### **STA302 — Factors Affecting QS University Rankings**
 *Data Analysis · Regression Modeling · Model Diagnostics*  
 Repository: [STA302-Projects](https://github.com/HexiangLi6007678/STA302-Projects)
@@ -19,15 +25,6 @@ Repository: [STA302-Projects](https://github.com/HexiangLi6007678/STA302-Project
 *Machine Learning · Econometrics · Geospatial Data*  
 Repository: [ECO225-Projects](https://github.com/HexiangLi6007678/ECO225-Projects)
 
----
-### **Abalone Predictive Modeling**
-*Data Analysis · Regression Modeling · Model Diagnostics · Machine Learning*  
-Repository: [Abalone-Projects](https://github.com/HexiangLi6007678/Abalone-Projects)
-
----
-## Education
-**University of Toronto**  
-Honours B.Sc., Statistical Science (Methods & Practice) — Economics Focus  
 ---
 
 ### Thanks for visiting my profile!  
