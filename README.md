@@ -27,7 +27,13 @@ Repository: [ECO225-Projects](https://github.com/HexiangLi6007678/ECO225-Project
 
 ---
 
-### **2026 SDSS Datathon - Airfare Analytics: Fair Price and Market Power**
-Respository: [2026 SDSS Datathon](https://github.com/HexiangLi6007678/SDSS-Datathon-2026-Team-53-Airline)
+### 🏆 SDSS Datathon 2026 — Best Overall Winner
+**Airfare Analytics: Fair Price & Market Power**
+
+A data-driven platform that benchmarks fair airline ticket prices and detects market dominance using econometric modeling and machine learning.
+
+🥇 **Award:** Best Overall Project  
+🔗 [View Devpost Submission](https://devpost.com/software/airfare-analytics-fair-price-market-power)  
+💻 [View GitHub Repository](https://github.com/HexiangLi6007678/SDSS-Datathon-2026-Team-53-Airline)
 
 ### Thanks for visiting my profile!  
