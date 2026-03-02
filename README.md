@@ -28,6 +28,6 @@ Repository: [ECO225-Projects](https://github.com/HexiangLi6007678/ECO225-Project
 ---
 
 ### **2026 SDSS Datathon - Airfare Analytics: Fair Price and Market Power**
-Respository: 
+Respository: [2026 SDSS Datathon](https://github.com/HexiangLi6007678/SDSS-Datathon-2026-Team-53-Airline)
 
 ### Thanks for visiting my profile!  
