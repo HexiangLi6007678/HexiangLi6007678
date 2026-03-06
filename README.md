@@ -36,6 +36,8 @@ A data-driven platform that benchmarks fair airline ticket prices and detects ma
 🔗 [View Devpost Submission](https://devpost.com/software/airfare-analytics-fair-price-market-power)  
 💻 [View GitHub Repository](https://github.com/HexiangLi6007678/SDSS-Datathon-2026-Team-53-Airline)
 
+---
+
 ### CAS Case Competition - 1st Prize Winner
 **Risk-Based Pricing Framework for Student Renter’s Insurance**
 
