@@ -27,7 +27,7 @@ Repository: [ECO225-Projects](https://github.com/HexiangLi6007678/ECO225-Project
 
 ---
 
-### 🏆 SDSS Datathon 2026 — Best Overall Winner
+### 🏆 SDSS Datathon 2026 — Best Overall Project Winner
 **Airfare Analytics: Fair Price & Market Power**
 
 A data-driven platform that benchmarks fair airline ticket prices and detects market dominance using econometric modeling and machine learning.
@@ -35,5 +35,13 @@ A data-driven platform that benchmarks fair airline ticket prices and detects ma
 🥇 **Award:** Best Overall Project  
 🔗 [View Devpost Submission](https://devpost.com/software/airfare-analytics-fair-price-market-power)  
 💻 [View GitHub Repository](https://github.com/HexiangLi6007678/SDSS-Datathon-2026-Team-53-Airline)
+
+### CAS Case Competition - 1st Prize Winner
+**Risk-Based Pricing Framework for Student Renter’s Insurance**
+
+A data-driven actuarial pricing project that develops an individual-level pricing framework for student renter's insurance. The project combines predictive modeling, risk segmentation, and underwriting guardrails to move beyond portfolio-average pricing and support more stable loss ratios, improved profitability, and clearer underwriting actions.
+
+Repository: [CAS Case Competition Challenge](https://github.com/HexiangLi6007678/CAS_Comp)
+
 
 ### Thanks for visiting my profile!  
