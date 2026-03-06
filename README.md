@@ -43,7 +43,7 @@ A data-driven platform that benchmarks fair airline ticket prices and detects ma
 
 A data-driven actuarial pricing project that develops an individual-level pricing framework for student renter's insurance. The project combines predictive modeling, risk segmentation, and underwriting guardrails to move beyond portfolio-average pricing and support more stable loss ratios, improved profitability, and clearer underwriting actions.
 
-Repository: [CAS Case Competition Challenge](https://github.com/HexiangLi6007678/CAS_Comp_Challenge)
+Repository: [CAS Case Competition Challenge](https://github.com/HexiangLi6007678/CAS_Comp_Challeneg)
 
 
 ### Thanks for visiting my profile!  
