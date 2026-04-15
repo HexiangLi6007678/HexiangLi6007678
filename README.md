@@ -6,6 +6,25 @@ I am an Honours B.Sc. student specializing in **Statistical Science (Methods & P
 I enjoy building statistical models, interpreting real-world data, and using ML tools to generate actionable insights.
 
 ---
+### 🏆 SDSS Datathon 2026 — Best Overall Project Winner
+**Airfare Analytics: Fair Price & Market Power**
+
+A data-driven platform that benchmarks fair airline ticket prices and detects market dominance using econometric modeling and machine learning.
+
+🥇 **Award:** Best Overall Project  
+🔗 [View Devpost Submission](https://devpost.com/software/airfare-analytics-fair-price-market-power)  
+💻 [View GitHub Repository](https://github.com/HexiangLi6007678/SDSS-Datathon-2026-Team-53-Airline)
+
+---
+
+### CAS Case Competition - 1st Prize Winner
+**Risk-Based Pricing Framework for Student Renter’s Insurance**
+
+A data-driven actuarial pricing project that develops an individual-level pricing framework for student renter's insurance. The project combines predictive modeling, risk segmentation, and underwriting guardrails to move beyond portfolio-average pricing and support more stable loss ratios, improved profitability, and clearer underwriting actions.
+
+Repository: [CAS Case Competition Challenge](https://github.com/HexiangLi6007678/CAS_Comp_Challeneg)
+
+---
 
 ## Featured Projects (make sure you open these files through Google)
 
@@ -26,24 +45,6 @@ Repository: [STA302-Projects](https://github.com/HexiangLi6007678/STA302-Project
 Repository: [ECO225-Projects](https://github.com/HexiangLi6007678/ECO225-Projects)
 
 ---
-
-### 🏆 SDSS Datathon 2026 — Best Overall Project Winner
-**Airfare Analytics: Fair Price & Market Power**
-
-A data-driven platform that benchmarks fair airline ticket prices and detects market dominance using econometric modeling and machine learning.
-
-🥇 **Award:** Best Overall Project  
-🔗 [View Devpost Submission](https://devpost.com/software/airfare-analytics-fair-price-market-power)  
-💻 [View GitHub Repository](https://github.com/HexiangLi6007678/SDSS-Datathon-2026-Team-53-Airline)
-
----
-
-### CAS Case Competition - 1st Prize Winner
-**Risk-Based Pricing Framework for Student Renter’s Insurance**
-
-A data-driven actuarial pricing project that develops an individual-level pricing framework for student renter's insurance. The project combines predictive modeling, risk segmentation, and underwriting guardrails to move beyond portfolio-average pricing and support more stable loss ratios, improved profitability, and clearer underwriting actions.
-
-Repository: [CAS Case Competition Challenge](https://github.com/HexiangLi6007678/CAS_Comp_Challeneg)
 
 
 ### Thanks for visiting my profile!  
