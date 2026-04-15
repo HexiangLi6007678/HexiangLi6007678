@@ -34,6 +34,12 @@ Repository: [Abalone-Projects](https://github.com/HexiangLi6007678/Abalone-Proje
 
 ---
 
+### **Clinical Health Risk Stratification & Latent Population Identification**
+*Data Analysis · Unsupervised Learning · Clustering · Statistical Diagnostics · Public Health Analytics* 
+Repository: [NHANES-Health-Risk-Projects](https://github.com/HexiangLi6007678/NHANES-Health-Risk-Projects)
+
+---
+
 ### **STA302 — Factors Affecting QS University Rankings**
 *Data Analysis · Regression Modeling · Model Diagnostics*  
 Repository: [STA302-Projects](https://github.com/HexiangLi6007678/STA302-Projects)
